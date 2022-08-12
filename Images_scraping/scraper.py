@@ -13,6 +13,7 @@ scrollnum = 10
 sleepTimer = 3
 chromeDriverPath = r"C:\Users\moham\Image-Based_Semantic_Search\Images_scraping\chromedriver.exe"
 
+# choose the field of interest in scraping 
 var = ['drink', 'soda', 'juice', 'drinkable']
 
 profiles = []
