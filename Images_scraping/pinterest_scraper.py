@@ -17,7 +17,7 @@ class PinterestScraper:
         # images = [image['src'] for image in content.findAll('img')]
         
         print(content.find_all("div", {"class": "Pj7 sLG XiG INd m1e"}))
-        # for image in images:
+        # for image in images:  
         #     print(image)
 
     def download_images(self):
